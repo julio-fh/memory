@@ -35,13 +35,21 @@ O projeto foi publicado no **GitHub Pages** para acesso rápido e fácil.
 ## 📂 Estrutura do Projeto
 
 📦 memory/
+
 ┣ 📜 index.html # Estrutura principal
+
 ┣ 📜 styles.css # Estilos e layout
+
 ┣ 📜 scripts.js # Regras e lógica do jogo
+
 ┣ 📜 README.md # Documentação do projeto
+
 ┗ 📜 assets/
+
 ┣ 📜 preview.png
+
 ┣ 📜 lines.svg
+
 ┗ 📜 logo.svg
 
 ---
@@ -57,8 +65,11 @@ O projeto foi publicado no **GitHub Pages** para acesso rápido e fácil.
 ## 🌟 Possíveis Melhorias
 
 ✅ Adicionar contador de tempo e número de tentativas
+
 ✅ Implementar níveis de dificuldade
+
 ✅ Criar ranking com melhores pontuações
+
 ✅ Incluir animações ao virar as cartas
 
 ---
