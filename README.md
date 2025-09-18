@@ -1,4 +1,4 @@
-## 🃏 Jogo da Memória
+<h1 align="center"> 🃏 Jogo da Memória </h1>
 
 ### 📸 Prévia do Jogo
 
@@ -78,6 +78,10 @@ O projeto foi publicado no **GitHub Pages** para acesso rápido e fácil.
 
 Este projeto está licenciado sob a MIT License – veja o arquivo LICENSE
 para mais detalhes.
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
 ---
 
