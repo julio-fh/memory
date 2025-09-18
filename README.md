@@ -1,6 +1,6 @@
-# 🃏 Jogo da Memória
+## 🃏 Jogo da Memória
 
-## 📸 Prévia do Jogo
+### 📸 Prévia do Jogo
 
 ![Prévia do Jogo](./assets/preview.png)  
 
@@ -9,13 +9,13 @@ O projeto foi publicado no **GitHub Pages** para acesso rápido e fácil.
 
 ---
 
-## 🚀 Demonstração
+### 🚀 Demonstração
 
 👉 [Jogar agora no GitHub Pages](https://julio-fh.github.io/memory/)
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 
 - **HTML5** – estrutura da aplicação  
 - **CSS3** – design e responsividade  
@@ -23,7 +23,7 @@ O projeto foi publicado no **GitHub Pages** para acesso rápido e fácil.
 
 ---
 
-## 🎮 Como Jogar
+### 🎮 Como Jogar
 
 1. Clique em uma carta para virá-la.  
 2. Clique em outra carta para tentar formar um par.  
@@ -32,7 +32,7 @@ O projeto foi publicado no **GitHub Pages** para acesso rápido e fácil.
 
 ---
 
-## 📂 Estrutura do Projeto
+### 📂 Estrutura do Projeto
 
 📦 memory/
 
@@ -54,7 +54,7 @@ O projeto foi publicado no **GitHub Pages** para acesso rápido e fácil.
 
 ---
 
-## 🧩 Funcionalidades
+### 🧩 Funcionalidades
 
 - Animação de virar carta
 - Verificação automática de pares
@@ -62,7 +62,7 @@ O projeto foi publicado no **GitHub Pages** para acesso rápido e fácil.
 
 ---
 
-## 🌟 Possíveis Melhorias
+### 🌟 Possíveis Melhorias
 
 ✅ Adicionar contador de tempo e número de tentativas
 
@@ -74,13 +74,13 @@ O projeto foi publicado no **GitHub Pages** para acesso rápido e fácil.
 
 ---
 
-## 📄 Licença
+### 📄 Licença
 
 Este projeto está licenciado sob a MIT License – veja o arquivo LICENSE
 para mais detalhes.
 
 ---
 
-## 👨‍💻 Autor
+### 👨‍💻 Autor
 
 Feito com ❤️ por Júlio Filho
